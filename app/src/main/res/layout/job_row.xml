@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:elevation="8dp"
+    app:cardUseCompatPadding="true"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="15dp"
+        >
+
+        <ImageView
+            android:id="@+id/jrimg"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_alignParentStart="true"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tvc"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/jrimg"
+            android:text="Contact:"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/ContactNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@+id/tvc"
+            android:text="1234567890"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:id="@+id/del_imgjr"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_baseline_delete_24" />
+
+        <TextView
+            android:id="@+id/jobTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ContactNo"
+            android:layout_marginEnd="50dp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@id/jrimg"
+            android:paddingStart="5dp"
+            android:text="Job Title:"
+            android:textSize="18dp" />
+
+
+        <TextView
+            android:id="@+id/Date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/jobTitle"
+            android:layout_toRightOf="@id/jrimg"
+            android:text="Date:"
+            android:textColor="@color/black"
+            android:layout_marginLeft="5dp"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/jobdate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/jobTitle"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@id/Date"
+            android:text="12/10/2022"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/nametext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/jobdate"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/black"
+            android:layout_toRightOf="@id/jrimg"
+            android:text="Name: "
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/JobberName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Date"
+            android:layout_toRightOf="@+id/nametext"
+            android:text="Jobber Name"
+            android:textColor="@color/black"
+            android:textSize="18dp" />
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

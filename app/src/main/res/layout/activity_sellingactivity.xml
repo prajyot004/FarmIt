@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sellingactivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sellingtoolbar"
+        app:titleTextColor="@color/black"
+        android:background="@color/lightgreen"
+        tools:ignore="MissingConstraints" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/sellingrec"
+        android:layout_below="@id/sellingtoolbar"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="57dp" />
+
+    <com.tuann.floatingactionbuttonexpandable.FloatingActionButtonExpandable
+        android:id="@+id/fabsell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fab_content="Sell"
+        app:fab_text_color="@android:color/black"
+        app:fab_bg_color="@color/lightgreen"
+        app:fab_icon="@drawable/ic_baseline_sell_24"
+        app:fab_duration="100"
+        app:fab_text_size="18dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="15dp"
+        app:fab_typeface="fonts/RobotoSlab-Regular.ttf"
+        app:fab_expanded="true"/>
+
+
+</RelativeLayout>

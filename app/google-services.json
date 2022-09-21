@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215064400800",
+    "firebase_url": "https://farmit-933ff-default-rtdb.firebaseio.com",
+    "project_id": "farmit-933ff",
+    "storage_bucket": "farmit-933ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215064400800:android:798b5bebe8d1260acb8ac5",
+        "android_client_info": {
+          "package_name": "com.example.farmit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215064400800-bthlht898siibhreaam6hfflr6mh3mmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmit",
+            "certificate_hash": "05898505eedf1cdc94eba794f1ed68525973844c"
+          }
+        },
+        {
+          "client_id": "215064400800-7d60i5mb5f33oshh6abab32v4b82q4lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpV_9kr_TRZ4oGLJ9pEK9jo8royAJmswQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215064400800-7d60i5mb5f33oshh6abab32v4b82q4lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

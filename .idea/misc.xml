@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/drawable/job.xml" value="0.1045" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/drawable/money.xml" value="0.1055" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/drawable/pb_background.xml" value="0.11" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_addcrop.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_createjob.xml" value="0.22" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_homepage.xml" value="0.1" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_item_detail.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_jobactivity.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_jobdesc.xml" value="0.25" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_profileactivity.xml" value="0.18" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_sellingactivity.xml" value="0.1859375" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/activity_sellitem.xml" value="0.25" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/content_home.xml" value="0.161231884057971" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/dialog_wait1.xml" value="0.2626953125" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/fragment_job.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/fragment_selling.xml" value="0.1859375" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/job_row.xml" value="0.22" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/login_tab_fragment.xml" value="0.18" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/main_item.xml" value="0.19583333333333333" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/mycroplyt.xml" value="0.15" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/mycroplyt34.xml" value="0.1" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/nav_header.xml" value="0.15528455284552845" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/nav_header_home.xml" value="0.25" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/sell_row.xml" value="0.22" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/layout/signup_tab_fragment.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/menu/activity_home_drawer.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/menu/home.xml" value="0.2" />
+        <entry key="..\:/~TYCs prajyot/FarmIt/FarmIt/app/src/main/res/menu/iconmenu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
